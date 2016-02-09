@@ -1,0 +1,187 @@
+ .imageIcon{
+    padding-left: 80px;
+}
+
+ .practice-text{
+    text-align: center;
+}
+
+ p.practice-text{
+    width: 200px;
+    margin: auto;
+}
+
+ div.practice{
+     margin-top: 25px;
+ }
+ div.content{
+
+     width: 100%;
+     border-style: solid;
+     border-left-style: none;
+     border-right-style: none;
+     border-width: 1px;
+     border-bottom-color: #f4aa0e;
+     border-top-color: #f4aa0e;
+ }
+ h3.ourPractice{
+     width:180px;
+     margin-top: 2px;
+     float: left;
+     margin-left: 120px;
+ }
+ p.ourPractice{
+     width: 410px;
+     margin: auto;
+     font-size: 22px;
+ }
+ .ourPractice{
+     padding: 10px 0px 10px 0px;
+
+ }
+ .SliderImage{
+     width: 200px;
+     height: 100px;
+     border-style:solid;
+     border-width: 1px;
+     border-color:#f4aa0e ;
+ }
+ i.glyphicon-align-justify{
+     width: 20px;
+     margin: auto;
+     padding-left: 40px;
+ }
+ .btn.NavPractice{
+     padding-top: 14px;
+     color: #999;
+
+ }
+ .btn.NavPractice:hover{
+     color: #ffffff;
+
+
+ }
+
+ .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+     height: 65px;
+ }
+ .practiceGli:hover{
+     background-color: #000000;
+     color: #ffffff;
+ }
+ a.NavMenu{
+     height:62px;
+ }
+div.arrows{
+    position: absolute;
+    right: 50%;
+    bottom: 15px;
+
+}
+.brandLogo{
+    width: 150px;
+    height: 40px;
+
+}
+div.oral_pediatrics{
+    margin-top: 75px;
+
+}
+hr{
+     margin-top: 20px;
+     margin-bottom: 20px;
+     border: 0;
+     border-top: 1px solid #f4aa0e;
+ }
+
+  .hilightPanel:hover {
+
+  }
+ .panel.panel-default{
+     background: none;
+     height: 150px;
+     border: none;
+ }
+ .news{
+     height:14px;
+     color: #ffffff;
+ }
+ .hilightPanel{
+     border-right-style: solid;
+     border-right-color:#f4aa0e;
+     border-right-width: 1px;
+     border-bottom-style: solid;
+     border-bottom-color:  #f4aa0e;
+     border-bottom-width: 1px;
+ }
+ h4, .h4 {
+     font-size: 20px;
+ }
+ p.mission {
+     font-size: 17px;
+     margin: auto;
+     width: 302px;
+     margin-top: 45px;
+     float: left;
+ }
+ p.aristotel{
+     font-size: 17px;
+     width: 863px;
+     margin-top: 47px;
+     float: left;
+ }
+ div.oral_pediatrics {
+     margin-left: 85px;
+     padding-top: 55px;
+     background-color: #fbfbfb;
+     margin-bottom: 79px;
+     padding-bottom: 40px;
+ }
+ div.background{
+     background-color: #fbfbfb;
+     margin-bottom: 25px;
+     height: 290px;
+     margin-top: -75px;
+ }
+
+
+
+ .nav>li>a.lang{
+    padding: 0px;
+     color: orange;
+
+}
+ .nav>li.langPanel{
+     padding-right: 345px;
+ }
+ div.footer{
+     margin-top: 22px;
+     padding-top: 43px;
+     background-color: #fbfbfb;
+     position: relative;
+     width: 100%;
+     height: 350px;
+ }
+div.formBlock{
+    height: 350px;
+    width: 400px;
+    background-image: url(../images/cicrcle.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    right: 200px;
+    z-index: 10;
+}
+ .formFeedback{
+     position: relative;
+     top: 90px;
+     left: 97px;
+ }
+ .ButtonFeedback{
+     border: none;
+     width: 73px;
+     height: 67px;
+     background-image: url(../images/circlebutton.png);
+     margin-left: 73px;
+     background-color: transparent;
+}

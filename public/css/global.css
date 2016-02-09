@@ -1,0 +1,19 @@
+body, html{    
+	height:100%;
+    min-height:100%;
+	}
+.parent {
+    display:table;
+   
+    height:60%;
+    min-height:60%;
+    width:400px;
+}
+
+.child {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+
+body.video{padding-top: 80px;}
